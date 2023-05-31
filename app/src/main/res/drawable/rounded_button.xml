@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#72C49A" /> <!-- Set your desired fill color here -->
+    <corners android:radius="24dp" />
+    <stroke
+        android:color="#74FFFFFF"
+        android:width="2dp" />
+    </shape >

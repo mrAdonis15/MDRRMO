@@ -1,0 +1,155 @@
+<resources>
+    <string name="create_an_account">Create an Account</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create">Create</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email2">Email</string>
+    <string name="password2">Password</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="your_assistant_in_finding_and_navigating_through_hospitals">Your assistant in finding and navigating through Hospitals</string>
+    <string name="login2">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="let_s_get_started2">Let\'s Get Started!</string>
+    <string name="municipal_disaster_risk_reduction_and_management_office">Municipal Disaster Risk Reduction and Management Office</string>
+    <string name="echague_manicipal_ground_san_fabian_echague_isabela">Echague Manicipal Ground, San Fabian, Echague, Isabela</string>
+    <string name="add">ADD</string>
+    <string name="province">Province</string>
+    <string name="municipality">Municipality</string>
+    <string name="enter_hospital">Enter hospital</string>
+    <string name="longitude">Longitude</string>
+    <string name="enter_longitude">Enter longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="enter_latitude">Enter latitude</string>
+    <string name="hospital">Hospital</string>
+    <string name="enter_municipality">Enter municipality</string>
+    <string name="enter_province">Enter province</string>
+    <string name="image">image</string>
+    <string name="google_logo_signin" />
+
+    <string name="app_name">mdrrmo_5.0.1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="provinces">
+        <item>Batanes</item>
+        <item>Cagayan</item>
+        <item>Isabela</item>
+        <item>Nueva Viscaya</item>
+        <item>Quirino</item>
+    </string-array>
+
+    <string-array name="municipality_batanes">
+        <item>Basco</item>
+        <item>Itbayat</item>
+        <item>Ivana</item>
+        <item>Mahatao</item>
+        <item>Sabtang</item>
+        <item>Uyugan</item>
+    </string-array>
+
+    <string-array name="municipality_cagayan">
+        <item>Abulug</item>
+        <item>Alcala</item>
+        <item>Allacapan</item>
+        <item>Amulung</item>
+        <item>Aparri</item>
+        <item>Baggao</item>
+        <item>Ballesteros</item>
+        <item>Buguey</item>
+        <item>Calayan</item>
+        <item>Camalaniugan</item>
+        <item>Claveria</item>
+        <item>Enrile</item>
+        <item>Gattaran</item>
+        <item>Gonzaga</item>
+        <item>Iguig</item>
+        <item>Lal-Lo</item>
+        <item>Lasam</item>
+        <item>Pamplona</item>
+        <item>Peñablanca</item>
+        <item>Piat</item>
+        <item>Rizal</item>
+        <item>Sanchez-Mira</item>
+        <item>Santa Ana</item>
+        <item>Santa Praxedes</item>
+        <item>Santa Teresita</item>
+        <item>Santo Niño</item>
+        <item>Solana</item>
+        <item>Tuao</item>
+        <item>Tuguegarao City</item>
+    </string-array>
+
+    <string-array name="municipality_isabela">
+        <item>Alicia</item>
+        <item>Angadanan</item>
+        <item>Aurora</item>
+        <item>Benito Soliven</item>
+        <item>Burgos</item>
+        <item>Cabagan</item>
+        <item>Cabatuan</item>
+        <item>Cauayan City</item>
+        <item>Cordon</item>
+        <item>Delfin Albano (Magsaysay)</item>
+        <item>Dinapigue</item>
+        <item>Divilacan</item>
+        <item>Echague</item>
+        <item>Gamu</item>
+        <item>Ilagan City</item>
+        <item>Jones</item>
+        <item>Luna</item>
+        <item>Maconacon</item>
+        <item>Mallig</item>
+        <item>Naguilian</item>
+        <item>Palanan</item>
+        <item>Quezon</item>
+        <item>Quirino</item>
+        <item>Ramon</item>
+        <item>Reina Mercedes</item>
+        <item>Roxas</item>
+        <item>San Agustin</item>
+        <item>San Guillermo</item>
+        <item>San Isidro</item>
+        <item>San Manuel</item>
+        <item>San Mariano</item>
+        <item>San Mateo</item>
+        <item>San Pablo</item>
+        <item>Santa Maria</item>
+        <item>Santo Tomas</item>
+        <item>Santiago City</item>
+        <item>Tumauini</item>
+    </string-array>
+
+    <string-array name="municipality_nueva_viscaya">
+        <item>Alfonso Castañeda</item>
+        <item>Ambaguio</item>
+        <item>Aritao</item>
+        <item>Bagabag</item>
+        <item>Bambang</item>
+        <item>Bayombong (Provincial Capital)</item>
+        <item>Diadi</item>
+        <item>Dupax del Norte</item>
+        <item>Dupax del Sur</item>
+        <item>Kasibu</item>
+        <item>Kayapa</item>
+        <item>Quezon</item>
+        <item>Santa Fe</item>
+        <item>Solano</item>
+        <item>Villaverde</item>
+    </string-array>
+
+    <string-array name="municipality_quirino">
+        <item>Aglipay</item>
+        <item>Cabarroguis (Provincial Capital)</item>
+        <item>Diffun</item>
+        <item>Maddela</item>
+        <item>Nagtipunan</item>
+        <item>Saguday</item>
+    </string-array>
+
+
+</resources>

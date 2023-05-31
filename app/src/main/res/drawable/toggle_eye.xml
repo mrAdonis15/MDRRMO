@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <bitmap android:src="@drawable/eye_open" />
+    </item>
+    <item android:state_checked="false">
+        <bitmap android:src="@drawable/eye_close" />
+    </item>
+</selector>

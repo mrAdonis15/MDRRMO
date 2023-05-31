@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "46565995326",
+    "firebase_url": "https://mdrrmo-5-0-1-default-rtdb.firebaseio.com",
+    "project_id": "mdrrmo-5-0-1",
+    "storage_bucket": "mdrrmo-5-0-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46565995326:android:aae0efcde27d87ab2fb26f",
+        "android_client_info": {
+          "package_name": "com.adonis_development_design12.mdrrmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSN_bs5RSm7v7w6we5rkPet65e0sjRUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46565995326:android:421f95b7b8c03f642fb26f",
+        "android_client_info": {
+          "package_name": "com.adonis_development_design12.mdrrmo_501"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSN_bs5RSm7v7w6we5rkPet65e0sjRUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
